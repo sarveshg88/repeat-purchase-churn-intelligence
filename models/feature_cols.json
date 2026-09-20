@@ -1,0 +1,19 @@
+[
+  "recency_at_cutoff",
+  "tenure_at_cutoff",
+  "lifetime_orders_pre_cutoff",
+  "orders_last_30d",
+  "orders_last_60d",
+  "orders_last_90d",
+  "avg_basket_size",
+  "basket_size_trend",
+  "basket_trend_known",
+  "distinct_departments",
+  "distinct_aisles",
+  "distinct_products",
+  "repeat_product_ratio",
+  "weekend_order_ratio",
+  "avg_order_hour",
+  "gap_trend",
+  "gap_trend_known"
+]

@@ -1,0 +1,26 @@
+## Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+## Secrets / local config
+.env
+kaggle.json
+
+## Data (never commit raw/processed data — too large, and Instacart's license forbids redistribution)
+data/raw/
+data/processed/
+*.csv
+*.csv.zip
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Private planning notes — names target companies explicitly, not for a public repo
+Project_Spec_Repeat_Purchase_Churn.md
+
+## Private build log — interview/resume reference, not polished for public viewing
+PROGRESS_LOG.md

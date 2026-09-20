@@ -1,0 +1,5 @@
+{
+  "cost_optimal_threshold": 0.31,
+  "fn_fp_ratio": "5:1",
+  "source": "notebooks/02_features_model.ipynb, Phase 4"
+}
